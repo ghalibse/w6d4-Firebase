@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "413390390932",
+    "firebase_url": "https://libufirebase.firebaseio.com",
+    "project_id": "libufirebase",
+    "storage_bucket": "libufirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413390390932:android:68d4fc37e1b4895b",
+        "android_client_info": {
+          "package_name": "com.example.simplefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413390390932-0vvo7sqbtmiebeqgq4mq80v1hi7vvvap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0t2c3MibXDaouDvF90Glys7JexVmqOJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
